@@ -14,7 +14,7 @@
   "type": "library",
   "require": {
     "php": "^8.0",
-    "guzzlehttp/guzzle": "^7.8",
+    "guzzlehttp/guzzle": "7.7.1",
     "payconn/common": "^1.4",
     "ext-simplexml": "*",
     "symfony/http-foundation": "^5.4"
