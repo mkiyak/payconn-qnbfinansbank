@@ -3,6 +3,7 @@
   "description": "QNB Finansbank payment processing library for PHP",
   "keywords": ["QNB Finansbank", "Finansbank", "Sanal Pos", "Payment Processing", "PayFor"],
   "license": "MIT",
+  "version": "1.0",
   "authors": [
     {
       "name": "Mehmet",
